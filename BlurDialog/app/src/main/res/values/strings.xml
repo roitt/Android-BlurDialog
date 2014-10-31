@@ -4,5 +4,6 @@
     <string name="app_name">BlurDialog</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="show_dialog">Show Dialog</string>
 
 </resources>
